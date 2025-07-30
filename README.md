@@ -5,6 +5,10 @@ A modern and responsive **web application** that predicts the estimated insuranc
 ![App Preview](preview.png)
 
 ---
+## 🚀 Live Demo
+
+👉 [Click here to try the live app on Railway](https://insurance-prediction.up.railway.app/)
+---
 
 ## 🚀 Features
 
