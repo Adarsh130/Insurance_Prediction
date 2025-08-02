@@ -102,7 +102,7 @@ print("Test R² Score:", r2_score(y_test, test_pred))
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/insurance-predictor.git
+git clone https://github.com/<Adarsh130>/insurance-predictor.git
 cd insurance-predictor
 ```
 
@@ -165,3 +165,4 @@ This project is open-source under the [MIT License](LICENSE).
 ## ❤️ Footer
 
 > Made with ❤️ by **Adarsh Paswan**
+
